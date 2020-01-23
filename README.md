@@ -1,31 +1,11 @@
-# free_code_camp
+# Free Code Camp Practise
 
-### Project1: Tribute Page
+### [Project1: Tribute Page](https://prakashatma.github.io/free_code_camp/project-1/)
 
-**Assignment:-**
+### [Project2: Survey Form](https://prakashatma.github.io/free_code_camp/project-2/)
 
-* [Week 1](https://prakashatma.github.io/free_code_camp/project-1/)
+### [Project3: Product Landing Page](https://prakashatma.github.io/free_code_camp/project-3/)
 
-### Project2: Survey Form
+### [Project4: Product Landing Page](https://prakashatma.github.io/free_code_camp/project-4/)
 
-**Assignment:-**
-
-* [Week 2](https://prakashatma.github.io/free_code_camp/project-2/)
-
-### Project3: Product Landing Page
-
-**Assignment:-**
-
-* [Week 3](https://prakashatma.github.io/free_code_camp/project-3/)
-
-### Project4: Product Landing Page
-
-**Assignment:-**
-
-* [Week 4](https://prakashatma.github.io/free_code_camp/project-4/)
-
-### Project5: Personal Portfolio Webpage
-
-**Assignment:-**
-
-* [Week 5](https://prakashatma.github.io/free_code_camp/project-5/)
+### [Project5: Personal Portfolio Webpage](https://prakashatma.github.io/free_code_camp/project-5/)
